@@ -1,0 +1,4 @@
+# Local-only skills — per-developer, never PR'd to agents.
+# Skillshare uses the `local/` subfolder convention (flattens to `local__*`
+# in targets); see docs/skillshare-local-runbook.md.
+/skills/local/
